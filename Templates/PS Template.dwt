@@ -281,7 +281,7 @@ function MM_preloadImages() { //v3.0
 </head>
 
 <body onload="MM_preloadImages('../PS H2 Button_s2.png')">
-<div id="header1"><a href="../index.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','PSH1Button','../PS%20H1%20Button_s2.png','../PS%20H1%20Button_s3.png',1);" onclick="MM_nbGroup('down','navbar1','PSH1Button','../PS%20H1%20Button_s3.png',1);"><img src="../PS%20H1%20Button.png" alt="" name="PSH1Button" width="760" height="82" border="0" id="PSH1Button" /></a></div>
+<div id="header1"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','PSH1Button','../PS%20H1%20Button_s2.png','../PS%20H1%20Button_s3.png',1);" onclick="MM_nbGroup('down','navbar1','PSH1Button','../PS%20H1%20Button_s3.png',1);"><img src="../PS%20H1%20Button.png" alt="" name="PSH1Button" width="760" height="82" border="0" id="PSH1Button" /></a></div>
 <div id="header2"><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('PSH2Button','','../PS H2 Button_s2.png',1)"><img src="../PS%20H2%20Button.png" alt="" name="PSH2Button" width="760" height="38" border="0" id="PSH2Button" /></a></div>
 <div id="apDiv3"><img src="../eagle.png" width="123" height="119" /></div>
 <div id="Nav">
